@@ -9,8 +9,8 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>Redact RTF, TXT, and ODT Documents with GroupDocs Redaction for Java</name>
-    <description>Redact sensitive data from RTF, TXT, and OpenDocument (ODT) files using GroupDocs Redaction for Java.</description>
+    <name>GroupDocs Redaction Java Redact RTF, TXT, and ODT</name>
+    <description>Showcase project demonstrating exact-phrase redaction of RTF, TXT, and ODT files with GroupDocs Redaction.</description>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
