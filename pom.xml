@@ -30,7 +30,7 @@
         <dependency>
             <groupId>com.groupdocs</groupId>
             <artifactId>groupdocs-redaction</artifactId>
-            <version>26.7</version>
+            <version>26.10</version>
         </dependency>
     </dependencies>
 
